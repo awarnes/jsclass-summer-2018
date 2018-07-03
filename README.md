@@ -12,13 +12,13 @@ As we move through the course if there is anything that we need to spend more ti
 
 
 ### Learning React:
-As we learn React together we will practicing working together and how we can communicate concepts by employing [_mob programming_](https://en.wikipedia.org/wiki/Mob_programming).
+As we learn React together we will practice working together and how we can communicate concepts by employing [_mob programming_](https://en.wikipedia.org/wiki/Mob_programming).
 
 Similar to pair programming, we will trade off 'driving' and 'directing'. One person will 'drive' by typing out what the person 'directing' suggests. Every few minutes we'll trade responsibilities in the group. This is not a closed session, and everyone is welcome to contribute (in a sane and respectful way) whether it is their turn to direct or not.
 
-The goal of mob programming is twofold:
+The main goals of mob programming are twofold:
   1. It is important to practice communicating complex ideas to others.
-  2. Practicing typing code helps to build the muscle memory and can help connect concepts and reality.
+  2. Practice typing code helps to build the muscle memory and can help connect concepts to reality.
 
 ### Team Project:
 Once we have a foundation of the basics for React, we can start making something meaningful! As mentioned above, part of the focus of this class is how we can develop ourselves professionally. To that end this part of the course will focus on practicing and learning React in a production like setting.
