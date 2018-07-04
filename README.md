@@ -37,7 +37,7 @@ During this stage it is very important to recognize what is a necessary MVP feat
 The class will meet two times per week (Monday and Wednesday nights from 6:30 to 9:30 pm). Thursday nights each week there is a frontend meetup held at PDX Code Guild. This is a time that you can go meet people currently working in the biz, ask questions, or just work on projects or homework.
 
 #### Homework:
-As much as I would like to say that a few hours a week is all it takes to learn React, that is absolutely not the case. Practice makes perfect, and you will need to spend time outside of class practicing what we learn and working on your own projects in order to get as much as you can out of this class. 
+As much as I would like to say that a few hours a week is all it takes to learn React, that is absolutely not the case (and of course that's half the fun!). Practice makes perfect, and you will need to spend time outside of class practicing what we learn and working on your own projects in order to get as much as you can out of this class. 
 
 Each day we will work on a warm up for a few minutes before diving into the planned class work, if you're unable to finish the warmup in the time that we have or want to continue building it out you should work on it between classes. I will also work to have additional projects to play with and work on. If you ever have any questions I will be available on slack to help as much as I can.
 
